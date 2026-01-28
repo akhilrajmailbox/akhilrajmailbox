@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges1" align="center">
-  <a href="https://www.akhilraj.xyz/">
+  <a href="https://akhilrajmailbox.github.io/liveResume/">
     <img src="https://img.shields.io/badge/Live Resume-cyan?style=for-the-badge&logo=youtube&logoColor=white" alt="Resume Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/akhilrajmailbox/">

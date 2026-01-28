@@ -19,10 +19,10 @@
 
 
 <div id="badges2" align="center">
-  <a href="https://2048.akhilraj.xyz">
+  <a href="https://akhilrajmailbox.github.io/2048/">
     <img src="https://img.shields.io/badge/Lets Play 2048-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="2048 Badge"/>
   </a>
-  <a href="https://gravity.akhilraj.xyz">
+  <a href="https://akhilrajmailbox.github.io/Me-Without-Gravity/">
     <img src="https://img.shields.io/badge/Gravity-purple?style=for-the-badge&logo=linux&logoColor=white" alt="Gravity Badge"/>
   </a>
 </div>
